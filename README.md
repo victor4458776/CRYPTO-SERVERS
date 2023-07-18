@@ -1,2 +1,2 @@
 # Cryptography
-Cryptographic systems and methods for hash algorithms and financial tokens with python
+Cryptographic systems for web-robot automation with python
