@@ -1,0 +1,36 @@
+import argparse
+parser = argparse.ArgumentParser(description = 'ports')
+default = 80, help= "port to scan, default:80")
+print ("Port %:", params.port)
+
+parser.add.argument('-v',dest='verbosity')
+formater = argparse.RawDescriptionHelpFormatter)
+parser.addargument("-target", metadata='TARGET' dest="")
+
+params = parser.parser_args()
+portlist = params.ports.split (',')
+print params.ports
+
+#PIP
+pip install virtualvenv
+pip install virtualvenvwrapper
+#STB for projects (optional)
+
+#2
+params = parser.parse_args()
+print params.param1
+print params.param2
+
+#IMPORT
+import argparse
+#PARSERS 
+parser.add.argument( "", dest="param",type="int")
+
+#Class and Global parameters
+class parameters
+"""Global parameters"""
+def __init__(self, **kwargs):
+
+#Functions
+def view_parameters (input.parameters):
+    print input.parameters.param1
