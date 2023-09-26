@@ -25,3 +25,4 @@ while 1:
                 cli.send("Message from the server\n")
         cli.close()
 PCX-1
+git commit -m "PCX-1 <message>"
